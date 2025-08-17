@@ -45,6 +45,7 @@ body {
     background-color: #1F2937;
     display: flex;
     justify-content: space-evenly;
+    gap: 100px;
 }
 
 .awsome-text {
@@ -71,7 +72,6 @@ button {
 .img-placeholder {
     display: flex;
     justify-content: flex-end; /* push image to the right */
-    flex: 1; /* allow it to take up space */
 }
 
 .tyrese {
