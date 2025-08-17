@@ -130,3 +130,52 @@ button {
     font-weight: bold;
     font-style: italic;
 }
+
+.call-to-action-section {
+    margin-top: -15px;
+    height: 250px;
+    width: 100vw;
+}
+
+.white-border {
+    border: white solid 2px;
+    font-weight: bold;
+}
+
+.call-to-action-box {
+    display: flex;
+    height: 110px;
+    width: 630px;
+    background-color: #3882f6;
+    margin: 0 auto;
+    margin-top: 75px;
+    border-radius: 10px;
+}
+
+.left-coa {
+    display: flex;
+    flex-direction:column;
+}
+
+.coa-top {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-bottom: -5px;
+    color: white;
+    padding-left: 10px;
+}
+
+.coa-bottom {
+    padding-top : 10px;
+    font-size: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.right-coa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
