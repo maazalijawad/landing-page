@@ -68,8 +68,16 @@ button {
     margin-left: 30px;
 }
 
+.img-placeholder {
+    display: flex;
+    justify-content: flex-end; /* push image to the right */
+    flex: 1; /* allow it to take up space */
+}
+
 .tyrese {
-    margin-right: 15px;
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px; /* small spacing from the right edge */
     border-radius: 5px;
 }
 
