@@ -79,6 +79,8 @@ button {
     height: auto;
     margin-right: 20px; /* small spacing from the right edge */
     border-radius: 5px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .tmax-logo {
