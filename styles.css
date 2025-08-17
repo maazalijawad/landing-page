@@ -179,3 +179,20 @@ button {
     align-items: center;
     margin-left: 200px;
 }
+
+.navbar-2 {
+    color: #e5e7eb;
+    display: block;
+    font-weight: bolder;
+    font-size: 10px;
+    height: 100px;
+    width: 100vw;
+    background-color: #1F2937;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -30px;
+    margin-top: -50px;
+}
