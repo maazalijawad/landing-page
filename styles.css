@@ -97,7 +97,8 @@ button {
 
 .stat-container {
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+    padding-bottom: 60px;
 }
 
 .box {
@@ -107,4 +108,25 @@ button {
 .stat-description {
     font-size: smaller;
     text-align: center;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 40px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.speaker {
+    margin-top: -20px;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: italic;
 }
