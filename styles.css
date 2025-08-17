@@ -41,15 +41,70 @@ body {
 .basic-info {
     padding-top: 70px;
     width: 100vw;
-    height: 400px;
+    height: 250px;
     background-color: #1F2937;
     display: flex;
 }
 
 .awsome-text {
     color: #f9faf8;
+    font-size: 25px;
+    margin-left: 30px;
 }
 
 .desc {
     color: #e5e7eb7b;
+    font-size: large;
+    margin-left: 30px;
+}
+
+button {
+    background: #3882f6;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    font-size:large;
+    margin-left: 30px;
+}
+
+.tyrese {
+    margin-right: 15px;
+    border-radius: 5px;
+}
+
+.tmax-logo {
+    height: 100px;
+    width:100px;
+    margin-left: -110px;
+    border-radius: 10px;
+}
+
+.stats-section-center-h2 {
+    text-align: center;
+}
+
+.box {
+    margin-top: 20px;
+    height: 75px;
+    width: 75px;
+    border: #3882f6 solid 2px;
+    border-radius: 20px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stat-container {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.box {
+    display: flex;
+}
+
+.stat-description {
+    font-size: smaller;
+    text-align: center;
 }
